@@ -1,5 +1,5 @@
 aniso8601==3.0.2
-Django==2.2.1
+Django>=2.2.2
 django-elasticsearch-dsl==0.5.1
 django-elasticsearch-dsl-drf==0.17.6
 django-haystack==2.8.1
