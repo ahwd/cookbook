@@ -4,7 +4,7 @@ django-elasticsearch-dsl==0.5.1
 django-elasticsearch-dsl-drf==0.17.6
 django-haystack==2.8.1
 django-nine==0.1.13
-djangorestframework==3.9.3
+djangorestframework==3.11.2
 elasticsearch==7.0.0
 elasticsearch-dsl==7.0.0
 graphene==2.1.3
